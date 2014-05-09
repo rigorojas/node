@@ -1,0 +1,723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"link",
+				"linkElemArray"
+			],
+			[
+				"nfl",
+				"nflmobileapp"
+			],
+			[
+				"p",
+				"parse"
+			],
+			[
+				"Q",
+				"QueryString"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"some",
+				"somevar"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 53.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"compare",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"Show",
+				"Sublimerge: Show Changes Introduced in Revision..."
+			],
+			[
+				"compar",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"find",
+				"File History: Current Project: Open recently closed file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"file hi",
+				"File History: Current Project: Open recently closed file"
+			],
+			[
+				"install 	",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 137.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rigoberto.rojas/Desktop/realtime/.git/config",
+		"/Users/rigoberto.rojas/Desktop/realtime/rigorojas-nodechat/socket.js",
+		"/Users/rigoberto.rojas/Desktop/realtime/rigorojas-nodechat/views/index.jade",
+		"/Users/rigoberto.rojas/Desktop/realtime/rigorojas-nodechat/index.html",
+		"/Users/rigoberto.rojas/Desktop/realtime/nodechat/socket.js",
+		"/Users/rigoberto.rojas/Desktop/realtime/nodechat/index.html",
+		"/Users/rigoberto.rojas/Desktop/realtime/chatapp/client/css/index.css",
+		"/Users/rigoberto.rojas/Desktop/realtime/chatapp/models.js",
+		"/Users/rigoberto.rojas/Desktop/realtime/chatapp/client/js/client.js",
+		"/Users/rigoberto.rojas/Desktop/realtime/chatapp/client/index.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/m/combine/top-performers.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/decorators/one-web/base.scss",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-mousemap.sublime-keymap",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/shared/yuiInit.js",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/shared/_ui.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/robots.txt",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/home/2010.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/index.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/home/home.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/home/forked_desktop.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/combine/rigo.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/modules/combine-top-performers/combine-top-performers.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/combine/participants.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/combine/profiles.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/combine/tracker.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/liveupdate/combine/2014/FOURTY_YARD_DASH/ALL.json",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/m/combine.html",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/combine/top-performers.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/m/combine/participants.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/m/combine/tracker.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/analytics/statslab_details.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/widget/gc/tickets-box-office.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/decorators/one-web/mobile-only.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/decorators/one-web/responsive-headless.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/decorators/one-web/mobile-only.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/modules/dependencies.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/includes/global/nfl-constants.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/m/combine/top-performers.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/includes/one-web/responsive-headless.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/community/profile/fan-buzz.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/community/profile/profile-landing.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/widgets/community/profile-home-middle-column.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/tags/gamecenterurl.tag",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/community/profile/redirect.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/community/community-landing.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/players.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/decorators.xml",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/superbowl/48/trivia.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/combine/profiles.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/inactives/inactives.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/includes/inactives/view-model.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/NFL-servlet.xml",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/m/combine/header-promo.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/m/combine/header-promo-combine.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/profiles.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/widgets/superbowl/48/live/header.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/widgets/navigation/superbowl/48/global.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/liveupdate/combine/2013/FORTY_YARD_DASH/ALL.json",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/standings/standings.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/standings/standings.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/combine/participants.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/tracker.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/combine.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/homecoming/homecoming.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/widgets/config-files/combine/live.html",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/live.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/news.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/combine.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/styles/superbowl/48/mobile/trivia.css",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/rigoberto.rojas/Desktop/vw/index.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/labs/rigo-test.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/labs/rigo.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/mobile/overlay.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/team/team.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/superbowl/48/48.jsp",
+		"/Users/rigoberto.rojas/Desktop/devdata.js",
+		"/Users/rigoberto.rojas/Desktop/test.json",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/labs/devtest2.html",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/decorators/redesign/no-markup.jsp",
+		"/Users/rigoberto.rojas/Desktop/sb_trivia_disaster_recovery/trivia.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/styles/labs/rigo.css",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/labs/rigo.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/labs/rigo/absolute.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/labs/rigo/relative.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/includes/superbowl/43/section-label/trivia.jsp",
+		"/Users/rigoberto.rojas/Desktop/nice.jpg",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/rigo.txt",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/decorators/one-web/_icons.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/decorators/one-web/full/_footer.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/superbowl/48/48.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/shared/_retina.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/shared/_fonts.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/shared/_webfont.scss",
+		"/Users/rigoberto.rojas/Desktop/test.js",
+		"/Users/rigoberto.rojas/Desktop/vimtest2.html",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/rigoberto.rojas/Desktop/vimtest1.html",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-build",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/rigoberto.rojas/Desktop/vimtest3.html",
+		"/Users/rigoberto.rojas/Desktop/sftp-config.json",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/rigoberto.rojas/Desktop/1403219_222853024552256_2079526874_o.jpg",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/rigoberto.rojas/Desktop/history.css",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/mixsystems.ftp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/m/teams.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/m/players.scss",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/sass/m/home.scss",
+		"/Users/rigoberto.rojas/Library/Application Support/Sublime Text 2/Packages/File History/Default (OSX).sublime-keymap",
+		"/Users/rigoberto.rojas/bin/git_diff_wrapper.sh",
+		"/Users/rigoberto.rojas/Desktop/maven command list copy 2.html",
+		"/Users/rigoberto.rojas/Desktop/ranks-eleven.tag",
+		"/Users/rigoberto.rojas/Desktop/tags/instantdebate.tag",
+		"/Users/rigoberto.rojas/Desktop/tags/pos.tag",
+		"/Users/rigoberto.rojas/Desktop/webapp.sublime-workspace",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/m/playoffs/playoff-picture.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/playoffs/playoffpicture.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/scripts/standings/playoff-picture.js",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/WEB-INF/pages/m/playoffs/playoff-picture.jsp",
+		"/Users/rigoberto.rojas/WWW/site/NFL-site-web/src/main/webapp/content/public/static/html/labs/rigo-test-cms.html",
+		"/Users/rigoberto.rojas/Library/Caches/Metadata/Safari/History/http:%2F%2Fmaven.apache.org%2Fdownload.html.webhistory"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rigoberto.rojas/WWW/site/NFL-site-web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"themes",
+			"clearfix",
+			"nativeVarStr",
+			"empty",
+			"nativeVarStr",
+			"indexof",
+			".indexOf",
+			"dep",
+			"css",
+			"combine-top",
+			">\n",
+			"json",
+			"respon",
+			"json.headshotUrl = nfl.constants.ECM_IMAGE_PATH + 'static/img/combine/headshots/' + json.id + '.jpg'; ",
+			"alt-nv-groups",
+			"ford.png",
+			"split-select-val",
+			"splitselect",
+			"split-select-val",
+			"splitselect",
+			"tracker-modal-more.png",
+			"nativeVarStr",
+			"&akmobile=ios",
+			"mobile-on",
+			"mobile",
+			"file",
+			"%>\n",
+			"nflmobileapp",
+			"combine",
+			"json",
+			"no-markup",
+			"trivia",
+			"content:isMobile",
+			"Wild",
+			"Wildcard",
+			"Wild-Card",
+			"wild",
+			"Wild",
+			"wildcard",
+			"wild",
+			"standings-wild",
+			"title = \"Wildcard\";",
+			"wildcard",
+			"wild-card",
+			"/scripts/standings/playoff-picture.js",
+			"wild-card",
+			"Wild-card",
+			">\n",
+			"global",
+			"landing",
+			"v2",
+			"my-teams-widget",
+			"/fantasy",
+			"fantasyfootball",
+			"fantasy",
+			"fantasyfootball.jsp",
+			"Harden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"test"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			],
+			[
+				2,
+				1,
+				3,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.765304856734,
+			0.805018915511,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.459885386819,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"m/combine/partici",
+				"webapp/WEB-INF/pages/m/combine/participants.jsp"
+			],
+			[
+				"combine",
+				"webapp/scripts/modules/combine-top-performers/combine-top-performers.js"
+			],
+			[
+				"indexof",
+				"webapp/WEB-INF/pages/widget/gc/tickets-box-office.jsp"
+			],
+			[
+				"top-performers.jsp",
+				"webapp/WEB-INF/pages/m/combine/top-performers.jsp"
+			],
+			[
+				"ecorators/one-web/mobile-only.js",
+				"webapp/scripts/decorators/one-web/mobile-only.js"
+			],
+			[
+				"web-inf/includes/one-web/responsive-headless.jsp",
+				"webapp/WEB-INF/includes/one-web/responsive-headless.jsp"
+			],
+			[
+				"depe",
+				"webapp/scripts/modules/dependencies.js"
+			],
+			[
+				"web-inf/includes/global/nfl-constants.jsp",
+				"webapp/WEB-INF/includes/global/nfl-constants.jsp"
+			],
+			[
+				"dependecies",
+				"webapp/scripts/modules/dependencies.js"
+			],
+			[
+				"combine-top-performers",
+				"webapp/scripts/modules/combine-top-performers/combine-top-performers.js"
+			],
+			[
+				"m/combine/top-performers.js",
+				"webapp/scripts/m/combine/top-performers.js"
+			],
+			[
+				"m/combine/top",
+				"webapp/WEB-INF/pages/m/combine/top-performers.jsp"
+			],
+			[
+				"fanbu",
+				"webapp/scripts/community/profile/fan-buzz.js"
+			],
+			[
+				"profile-home",
+				"webapp/content/public/static/html/widgets/community/profile-home-middle-column.html"
+			],
+			[
+				"gamecenter",
+				"webapp/WEB-INF/tags/gamecenterurl.tag"
+			],
+			[
+				"trivia",
+				"webapp/WEB-INF/pages/m/superbowl/48/trivia.jsp"
+			],
+			[
+				"servlet.xml",
+				"webapp/WEB-INF/NFL-servlet.xml"
+			],
+			[
+				"combineprofile",
+				"webapp/scripts/combine/profiles.js"
+			],
+			[
+				"web-inf/includes/inactives/view-model.jsp",
+				"webapp/WEB-INF/includes/inactives/view-model.jsp"
+			],
+			[
+				"players.jsp",
+				"webapp/WEB-INF/pages/combine/players.jsp"
+			],
+			[
+				"combine.html",
+				"webapp/content/public/static/html/m/combine.html"
+			],
+			[
+				"header-promo",
+				"webapp/content/public/static/html/m/combine/header-promo.html"
+			],
+			[
+				"/profiles.jsp",
+				"webapp/WEB-INF/pages/combine/profiles.jsp"
+			],
+			[
+				"m/combine/tra",
+				"webapp/scripts/m/combine/tracker.js"
+			],
+			[
+				"/scripts/standings/standings.js",
+				"webapp/scripts/standings/standings.js"
+			],
+			[
+				"standing",
+				"webapp/WEB-INF/pages/standings/standings.jsp"
+			],
+			[
+				"includes/inactives/view-model.jsp",
+				"webapp/WEB-INF/includes/inactives/view-model.jsp"
+			],
+			[
+				"one-web/responsive-headless.jsp",
+				"webapp/WEB-INF/decorators/one-web/responsive-headless.jsp"
+			],
+			[
+				"partici",
+				"webapp/scripts/combine/participants.js"
+			],
+			[
+				"tracker.jsp",
+				"webapp/WEB-INF/pages/combine/tracker.jsp"
+			],
+			[
+				"/web-inf/includes/inactives/view-model.jsp",
+				"webapp/WEB-INF/includes/inactives/view-model.jsp"
+			],
+			[
+				"/widgets/config-files/combine/",
+				"webapp/content/public/static/html/widgets/config-files/combine/live.html"
+			],
+			[
+				"servlet",
+				"webapp/WEB-INF/NFL-servlet.xml"
+			],
+			[
+				"serve",
+				"webapp/WEB-INF/NFL-servlet.xml"
+			],
+			[
+				"combine.jsp",
+				"webapp/WEB-INF/pages/combine/combine.jsp"
+			],
+			[
+				"nfl-co",
+				"webapp/WEB-INF/includes/global/nfl-constants.jsp"
+			],
+			[
+				"trvia",
+				"webapp/WEB-INF/pages/m/superbowl/48/trivia.jsp"
+			],
+			[
+				"trivia.jsp",
+				"webapp/WEB-INF/includes/superbowl/43/section-label/trivia.jsp"
+			],
+			[
+				"ismobile",
+				"WEB-INF/pages/scores/scores_mobile.jsp"
+			],
+			[
+				"content",
+				"WEB-INF/pages/content.jsp"
+			],
+			[
+				"playoff-picture.js",
+				"scripts/standings/playoff-picture.js"
+			],
+			[
+				"",
+				"WEB-INF/pages/m/playoffs/playoff-picture.jsp"
+			],
+			[
+				"/labs/qs/ex",
+				"WEB-INF/pages/labs/qs/example.jsp"
+			],
+			[
+				"examp",
+				"WEB-INF/pages/qs/example.jsp"
+			],
+			[
+				"rigo-test",
+				"NFL-site-web/src/main/webapp/content/public/static/html/labs/rigo-test-cms.html"
+			],
+			[
+				"videos-coverage.jsp",
+				"NFL-site-web/target/NFL-site-web-5.14-SNAPSHOT/WEB-INF/decorators/redesign/videos-coverage.jsp"
+			],
+			[
+				"decorators.xml",
+				"NFL-site-web/target/NFL-site-web-5.14-SNAPSHOT/WEB-INF/decorators.xml"
+			],
+			[
+				"videos.xml",
+				"NFL-site-web/target/classes/servlets/videos.xml"
+			],
+			[
+				"v2.jsp",
+				"NFL-site-web/target/NFL-site-web-5.14-SNAPSHOT/WEB-INF/pages/videospage/v2.jsp"
+			],
+			[
+				"web.xml",
+				"NFL-site-web/src/main/webapp/WEB-INF/web.xml"
+			],
+			[
+				"servlet.",
+				"NFL-site-web/target/classes/servlet.xml"
+			],
+			[
+				"nfl-con",
+				"NFL-site-web/target/NFL-site-web-5.14-SNAPSHOT/WEB-INF/includes/global/nfl-constants.jsp"
+			],
+			[
+				"rigo-test.jsp",
+				"NFL-site-web/src/main/webapp/WEB-INF/pages/labs/rigo-test.jsp"
+			],
+			[
+				"site.xml",
+				"NFL-site-web/src/main/webapp/WEB-INF/sitemesh.xml"
+			],
+			[
+				"fantasyfootball.jsp",
+				"NFL-site-web/src/main/webapp/WEB-INF/pages/fantasy/fantasyfootball.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}
