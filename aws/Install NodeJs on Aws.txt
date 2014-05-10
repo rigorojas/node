@@ -25,7 +25,7 @@ Installing node on your ec2 Instance
 4. Install Node from downloaded files
 	git checkout v0.6.8 //skip this for latest stable version
 	./configure  //this command runs the config script
-	make
+	make //this command takes a long time.
 	sudo make install
 
 5. Add node user to sudoer group
@@ -42,21 +42,35 @@ Installing node on your ec2 Instance
 	:wq!
 
 	<and you're back in the console>
-	<in order to leave su mode, type:>
+	<in order to leave su mode, type>
 	exit
 6: Download and Install NPM
 	git clone https://github.com/isaacs/npm.git
 	cd npm
 	sudo make install
 
-You got it!!!! All done....
+<<<<<<-------You got it!!!! All done------>>>>>>
 
 7. Additional Packages.
-	sudo npm install express -g
-	sudo npm install forever -g
-
+	sudo npm install -g express 
+	sudo npm install -g forever 
 
 8. route port 80 to 8080 so node can answer requests
 sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to 8080
+
+9.Upgrade Node.js via NPM
+	sudo npm cache clean -f
+	sudo npm install -g n
+	sudo n stable //you can force version number here
+	node -v
+
+
+
+
+
+
+
+
+
 
 
